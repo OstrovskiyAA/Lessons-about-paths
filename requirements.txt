@@ -1,0 +1,2 @@
+selene~=1.0.2
+selenium~=4.21.0
